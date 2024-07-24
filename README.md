@@ -13,3 +13,18 @@ The dataset provides a comprehensive collection of health-related measurements f
 
 ## Histograms of Features that have zero values¶
 ![image](https://github.com/user-attachments/assets/4f2074cb-058b-4f0f-ba26-78b96d08b6af)
+
+## Machine Learning Models
+
+### Model Performance
+
+**Diabetes Prediction Model:** Achieved an accuracy of **85%**.
+
+## Usage
+
+To use this dataset for your own projects:
+
+1. **Clone this repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/your-repository.git
