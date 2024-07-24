@@ -10,3 +10,6 @@ The dataset provides a comprehensive collection of health-related measurements f
 ## Correlation Heatmap
 ## It shows that there is a high correlation between the glucose and the outcome value
 ![image](https://github.com/user-attachments/assets/3c1129dc-f5d2-4518-952c-6dbf59469942)
+
+## Histograms of Features that have zero values¶
+![image](https://github.com/user-attachments/assets/4f2074cb-058b-4f0f-ba26-78b96d08b6af)
